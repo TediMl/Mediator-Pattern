@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\bin\Debug\net8.0\Mediator1.exe
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\bin\Debug\net8.0\Mediator1.deps.json
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\bin\Debug\net8.0\Mediator1.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\bin\Debug\net8.0\Mediator1.dll
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\bin\Debug\net8.0\Mediator1.pdb
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\Mediator1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\Mediator1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\Mediator1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\Mediator1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\Mediator1.sourcelink.json
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\Mediator1.dll
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\refint\Mediator1.dll
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\Mediator1.pdb
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\Mediator1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\kot\Mediator-Pattern\obj\Debug\net8.0\ref\Mediator1.dll
